@@ -1,0 +1,22 @@
+1) Run make to compile all files
+2) 4 output files will be created 
+
+out1 - Q1 a)
+out2 - Q1 b)
+out3 - Q1 c)
+
+out4 - Q2 a) and b)
+
+3) For executing run:
+
+./out1 2
+
+where 2 is the number of threads for Q1 a)
+
+Similarly for others
+
+./out4 2
+
+will give insertion and lookup throughput for 2 threads
+
+4)make clean to remove all executables
